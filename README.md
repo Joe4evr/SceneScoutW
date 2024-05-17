@@ -1,2 +1,2 @@
 # SceneScoutW
-1 .exe wrapper around @Mark-Shun/SceneScout
+The 1 .exe wrapper around [@Mark-Shun/SceneScout](https://github.com/Mark-Shun/SceneScout)
